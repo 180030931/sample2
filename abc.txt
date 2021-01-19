@@ -1,0 +1,1 @@
+devops is a set of practices that combines software development and it operations 
